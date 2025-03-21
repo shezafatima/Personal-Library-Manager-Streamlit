@@ -27,7 +27,7 @@
 ## 🏗️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Personal_Library_Manager.git
+   git clone https://github.com/shezafatima/Personal-Library-Manager-Streamlit.git
    cd Personal_Library_Manager
    ```
 
@@ -45,15 +45,10 @@
 ![Personal Library Manager](images/screenshot.png)
 
 ## 💡 Future Enhancements
-- 📊 **Analytics Dashboard** to track reading trends
-- 📤 **Export Books List** as CSV or PDF
-- 🌐 **Cloud Integration** for remote access
+- **Review Books** : Add a section allowing users to review books.
+- **Book Link** : Provide a link to the book so users can easily access and read it.
+  
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this project and submit a pull request.
-
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 Made with ❤️ using Python & Streamlit
